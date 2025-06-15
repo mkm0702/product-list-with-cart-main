@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/mkm0702/product-list-with-cart-main)
+- Live Site URL: [Netlify](https://product-list-with-cart-sol.netlify.app/)
 
 
 ### Built with
@@ -47,5 +47,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/mkm0702)
-- Twitter - [@yourusername](https://www.twitter.com/mkm0702_)
+- Frontend Mentor - [@mkm0702](https://www.frontendmentor.io/profile/mkm0702)
+- Twitter - [@mkm0702_](https://www.twitter.com/mkm0702_)
